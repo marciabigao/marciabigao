@@ -1,11 +1,11 @@
-Olá, me chamo Márcia ! 
-## Bem vindo ao meu perfil GitHub 👋
+**Olá, me chamo Márcia !**
+Bem vindo ao meu perfil GitHub 👋
 
 :school_satchel: Estudante de Ciência da Computação na Universidade Federal de Minas Gerais <br>
 :computer: Presidente e Desenvolvedora Back-End na iJunior Soluções Digitais
 
 
-Ferramentas e tecnologias
+**Ferramentas e tecnologias**
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
@@ -21,7 +21,7 @@ Ferramentas e tecnologias
 </p>
 
 
-Estou aprendendo
+**Estou aprendendo**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -29,9 +29,10 @@ Estou aprendendo
 </p>
 
 
-Contato
+**Contato**
 <a href="https://www.linkedin.com/in/márciabigão" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@marciabigao"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 
 <div>
