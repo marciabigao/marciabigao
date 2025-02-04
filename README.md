@@ -1,10 +1,10 @@
-**Olá, me chamo Márcia !**
+**Olá, me chamo Márcia !** <br>
 Bem vindo ao meu perfil GitHub 👋
 
 :school_satchel: Estudante de Ciência da Computação na Universidade Federal de Minas Gerais <br>
 :computer: Presidente e Desenvolvedora Back-End na iJunior Soluções Digitais
 
-
+<br>
 **Ferramentas e tecnologias**
 
 <p align="center">
@@ -19,7 +19,7 @@ Bem vindo ao meu perfil GitHub 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
-
+<br>
 
 **Estou aprendendo**
 <p align="center">
@@ -27,14 +27,14 @@ Bem vindo ao meu perfil GitHub 👋
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
 </p>
+<br>
 
-
-**Contato**
+**Contato** <br>
 <a href="https://www.linkedin.com/in/márciabigão" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@marciabigao"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
-
+<br>
+<br>
 <div>
 <a href="https://github.com/marciabigao">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciabigao&layout=compact&langs_count=7&theme=dracula"/>
